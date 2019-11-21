@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/abdelkarimbelgnaou/Update/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <url>https://raw.githubusercontent.com/abdelkarimbelgnaou/Update/master/Rok Services/bin/Debug/Rok Services.exe</url> 
         <filePath>./Rok Services.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 21/11/2019:
@@ -11,7 +11,7 @@
     </update>
     <update> 
         <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/abdelkarimbelgnaou/Update/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
+        <url>https://raw.githubusercontent.com/abdelkarimbelgnaou/Update/master/Rok Services/bin/Debug/SharpUpdate.dll</url> 
         <filePath>./SharpUpdate.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Update: 21/11/2019:
@@ -20,7 +20,7 @@
     </update>
     <add> 
         <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/abdelkarimbelgnaou/Update/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
+        <url>https://raw.githubusercontent.com/abdelkarimbelgnaou/Update/master/Rok Services/bin/Debug/SharpUpdate.dll</url> 
         <filePath>./test_add/SharpUpdate_test_add.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Add: 21/11/2019:
